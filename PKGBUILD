@@ -1,5 +1,7 @@
 # Contributor: William Rea <sillywilly@gmail.com>
-# Contributor: Giorgio Lando <patroclo7@gmail.co,>
+# Contributor: Giorgio Lando <patroclo7@gmail.com>
+# Maintainer: Siôn Le Roux <sinisterstuf@gmail.com>
+
 pkgname=tomboy-reminder
 pkgver=0.9.1
 pkgrel=1
