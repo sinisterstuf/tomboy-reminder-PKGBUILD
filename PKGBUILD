@@ -5,7 +5,7 @@
 pkgname=tomboy-reminder
 pkgver=0.9.1
 pkgrel=1
-pkgdesc="This plugin for Tomboy lets you setup reminders in your note"
+pkgdesc="A tomboy plugin to tell Tomboy to pop up a note when you want to be reminded"
 url="http://flukkost.nu/blog/tomboy-reminder/"
 depends=('tomboy')
 arch=(any)
